@@ -75,3 +75,19 @@ float: left;
 margin-top: 10px;
 height: 60px;
 }
+#menubar{
+   
+    height: 47px;
+    background-color: #3D3D3D;
+    color: white;
+}
+button{ 
+    margin: auto;
+    background-color: #3D3D3D;
+    color: white;
+    height: 25px;
+    margin-right: 20px;
+    float: left;
+    border: white;
+    text-align: center;
+}
